@@ -1,3 +1,3 @@
 <template lang="pug">
-router-view
+p Hi i am the base route!
 </template>
